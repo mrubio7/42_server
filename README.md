@@ -8,6 +8,6 @@ Crear un servidor web completo, capaz de hacer funcionar varios servicios como W
 
 ## Uso
 
-`make build` - Crea la imagen 'mrubio:LEMP'.
-`make run` - Crea e inicia el contenedor.
+`make build` - Crea la imagen 'mrubio:LEMP'.\br
+`make run` - Crea e inicia el contenedor.\br
 #(Siempre en localhost)
