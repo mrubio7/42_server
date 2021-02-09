@@ -2,12 +2,13 @@
 
 ![ft_server](./100:100.png)
 
-## Objetivo
+## Objetive
 
-Crear un servidor web completo, capaz de hacer funcionar varios servicios como Wordpress, phpmyadmin y una base de datos.
+Create a web server, should be able to works with some services as Wordpress, PhpMyAdmin, and a database.
 
-## Uso
+## Use
 
-`make build` - Crea la imagen 'mrubio:LEMP'.<br/>
-`make run` - Crea e inicia el contenedor.<br/>
-(Siempre en localhost)
+Using docker:
+`make build` - Creates the image 'mrubio:LEMP'.<br/>
+`make run` - Creates and init container.<br/>
+Allways localhost.
