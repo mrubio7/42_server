@@ -1,7 +1,4 @@
-42Madrid Cursus - ft_server
-
-![ft_server](./100:100.png)
-
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/ft_server)](https://github.com/JaeSeoKim/badge42)
 ## Objetive
 
 Create a web server, should be able to works with some services as Wordpress, PhpMyAdmin, and a database.
