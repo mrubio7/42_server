@@ -8,7 +8,7 @@ Create a web server, should be able to works with some services as Wordpress, Ph
 
 ## Use
 
-Using docker:
+Using docker:<br/>
 `make build` - Creates the image 'mrubio:LEMP'.<br/>
 `make run` - Creates and init container.<br/>
 Allways localhost.
