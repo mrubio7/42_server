@@ -6,6 +6,8 @@ cp srcs/default /etc/nginx/sites-available/
 cp srcs/manu /etc/nginx/sites-available/
 ln -s /etc/nginx/sites-available/manu /etc/nginx/sites-enabled/
 mkdir /var/www/manu
+unzip srcs/phpmyadmin.zip
+rm -rf srcs/phpmyadmin.zip
 cp -r srcs/phpmyadmin /var/www/manu/
 
 wget https://wordpress.org/latest.tar.gz
